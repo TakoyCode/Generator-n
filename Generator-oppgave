@@ -1,0 +1,15 @@
+Generator’n!
+Sender man egentlig postkort i påsken? Ikke vet jeg, men så dere skal ha noe å gjøre over ferien later vi som!
+
+Du skal lage en nettside for å generere digitale påskekort! 
+
+Hvert påskekort skal inneholde:
+- Mottager
+- Avsender
+- Innhold
+- Bilde
+
+Tenk på dette som et fysisk postkort. Bildet skal være på en side, og alt annet på den andre. Når du trykker på enten kortet eller en knapp skal kortet snues, man skal altså kunne bytte mellom å se bildet eller innholdet.
+
+Ekstra:
+Lag en påskekort-bank, hvor du kan se en liste av alle kortene du har generer
